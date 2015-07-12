@@ -1,0 +1,13 @@
+F:\Programmierung\C#\JailPrison2\bin\Debug\JailPrison.dll.config
+F:\Programmierung\C#\JailPrison2\bin\Debug\JailPrison.dll
+F:\Programmierung\C#\JailPrison2\bin\Debug\JailPrison.pdb
+F:\Programmierung\C#\JailPrison2\bin\Debug\BCrypt.Net.dll
+F:\Programmierung\C#\JailPrison2\bin\Debug\HttpServer.dll
+F:\Programmierung\C#\JailPrison2\bin\Debug\Mono.Data.Sqlite.dll
+F:\Programmierung\C#\JailPrison2\bin\Debug\MySql.Data.dll
+F:\Programmierung\C#\JailPrison2\bin\Debug\Newtonsoft.Json.dll
+F:\Programmierung\C#\JailPrison2\bin\Debug\TerrariaServer.exe
+F:\Programmierung\C#\JailPrison2\bin\Debug\TShockAPI.dll
+F:\Programmierung\C#\JailPrison2\obj\Debug\JailPrison.csprojResolveAssemblyReference.cache
+F:\Programmierung\C#\JailPrison2\obj\Debug\JailPrison.dll
+F:\Programmierung\C#\JailPrison2\obj\Debug\JailPrison.pdb

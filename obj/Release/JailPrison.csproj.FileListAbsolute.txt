@@ -1,0 +1,12 @@
+F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\bin\Release\JailPrison.dll.config
+F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\bin\Release\JailPrison.dll
+F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\bin\Release\JailPrison.pdb
+F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\bin\Release\BCrypt.Net.dll
+F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\bin\Release\HttpServer.dll
+F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\bin\Release\Mono.Data.Sqlite.dll
+F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\bin\Release\MySql.Data.dll
+F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\bin\Release\Newtonsoft.Json.dll
+F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\bin\Release\TerrariaServer.exe
+F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\bin\Release\TShockAPI.dll
+F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\obj\Release\JailPrison.dll
+F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\obj\Release\JailPrison.pdb

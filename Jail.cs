@@ -12,7 +12,7 @@ using System.ComponentModel;
 
 namespace JailPrison
 {
-    [ApiVersion(1, 19)]
+    [ApiVersion(1, 20)]
     public class Jail : TerrariaPlugin
     {
         public static JPConfigFile JPConfig { get; set; }

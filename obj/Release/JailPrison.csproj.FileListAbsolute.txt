@@ -10,3 +10,4 @@ F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\bin\Release\TerrariaServer.
 F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\bin\Release\TShockAPI.dll
 F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\obj\Release\JailPrison.dll
 F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\obj\Release\JailPrison.pdb
+F:\Programmierung\C#\Git\TSHOCK-Jail---Prison-Plugin\obj\Release\JailPrison.csprojResolveAssemblyReference.cache
